@@ -1,0 +1,5 @@
+https://github.com/tgstation/tgstation
+https://github.com/mbund/exemplary
+https://github.com/Kyriosity/read-write
+https://github.com/Bhupesh-V/Bhupesh-V
+https://github.com/jacebrowning/memegen
